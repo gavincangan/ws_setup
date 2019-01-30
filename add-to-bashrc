@@ -1,0 +1,9 @@
+source /opt/ros/melodic/setup.bash
+alias sds='source devel/setup.bash'
+
+alias l='ls'
+alias ll='ls -l'
+alias c='clear'
+alias cd..='cd ..'
+alias ..='cd ..'
+
